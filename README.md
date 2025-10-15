@@ -1,8 +1,8 @@
 # Hi 👋, I'm Giannis Karyotakis
 
-### Undergraduate student and passionate about science
+### MSc Candidate and passionate about science
 
-I am a student in the Department of Management Science and Technology at the Athens University of Economics and Business.
+MSc Candidate in Data Science and Machine Learning at National Technical University of Athens. Graduate of the Department of Management Science and Technology at the Athens University of Economics and Business.
 
 🔭 **Current Role**: Security Researcher at [Secopera](https://secopera.eu)
 
